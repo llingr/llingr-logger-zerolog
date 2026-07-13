@@ -1,7 +1,8 @@
 # llingr-logger-zerolog
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/llingr/llingr-logger-zerolog.svg)](https://pkg.go.dev/github.com/llingr/llingr-logger-zerolog)
-[![Go Report Card](https://goreportcard.com/badge/github.com/llingr/llingr-logger-zerolog)](https://goreportcard.com/report/github.com/llingr/llingr-logger-zerolog)
+[![CI](https://github.com/llingr/llingr-logger-zerolog/actions/workflows/ci.yml/badge.svg)](https://github.com/llingr/llingr-logger-zerolog/actions/workflows/ci.yml)
+[![Lint](https://github.com/llingr/llingr-logger-zerolog/actions/workflows/lint.yml/badge.svg)](https://github.com/llingr/llingr-logger-zerolog/actions/workflows/lint.yml)
 [![Tag](https://img.shields.io/github/v/tag/llingr/llingr-logger-zerolog)](https://github.com/llingr/llingr-logger-zerolog/tags)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Go Version](https://img.shields.io/github/go-mod/go-version/llingr/llingr-logger-zerolog)](go.mod)
