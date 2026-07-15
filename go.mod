@@ -3,7 +3,7 @@ module github.com/llingr/llingr-logger-zerolog
 go 1.25.0
 
 require (
-	github.com/llingr/llingr-nexus v0.10.2
+	github.com/llingr/llingr-nexus v0.11.0
 	github.com/rs/zerolog v1.35.1
 )
 
